@@ -21,13 +21,13 @@
 
 ### 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="your-github-stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=riyaah&show_icons=true&theme=radical" alt="your-github-stats" />
 </p>
 
 ---
 
 ### 📫 Let's Connect:
-- 📧 [Your Email or Social]
+- 📧 riyaratnani184@gmail.com
 - 💬 Always open to learning and collaboration!
 
 ---
