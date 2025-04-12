@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">First-Year Engineering Student | Future Competitive Programmer | App Dev & AI Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Riyaahh </h1>
+<h3 align="center">First-Year Engineering Student | Future Competitive Programmer | App Dev Enthusiast</h3>
 
 ---
 
