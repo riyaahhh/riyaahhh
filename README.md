@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Riya Ratnani</h1>
+<h1 align="center">Hi 👋, I'm Riyaahhh</h1>
 <h3 align="center">AI & DS Undergrad | Flutter Dev 🚀 | Future Competitive Programmer ♟️</h3>
 
 <p align="center">
