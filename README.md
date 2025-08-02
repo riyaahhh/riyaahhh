@@ -13,13 +13,8 @@
 
 ---
 
-- 🎓 **Second-year Engineering student** at **Thadomal Shahani Engineering College**, Mumbai  
-- 🧠 Passionate about **Artificial Intelligence**, real-world apps & solving problems with code  
-- 💻 Currently learning **Data Structures & Algorithms in C++ and Java**  
-- 📱 Building apps with **Flutter (Dart)** – *working on a wellness app called BrainBubble*  
-- 🌐 Exploring **Java (Spring Boot)** and **Microservices** for scalable backend systems  
+- 🎓 **Second-year Engineering student** at **Thadomal Shahani Engineering College**, Mumbai 
 - ♟️ Actively participating in **competitive programming contests** on platforms like Codeforces & LeetCode  
-- ✨ Also familiar with **HTML**, **CSS**, and basic **Python**  
 - ⚒️ Open to hackathons, projects, and teamwork!
 
 ---
@@ -28,8 +23,6 @@
 - **Languages**: C++, Java, Dart, Python, HTML/CSS  
 - **Frameworks**: Flutter, Spring Boot (learning), Microservices architecture  
 - **Tools**: VS Code, GitHub, Linux (Fedora + Hyprland)  
-- **Currently Exploring**: Firebase, AI/ML tools, GitHub Workflows  
-
 ---
 
 ### 🚀 Projects In Progress
@@ -38,29 +31,10 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riyaah&show_icons=true&theme=radical" alt="riyaah GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riyaah&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyaah&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=riyaah&theme=radical" alt="Contribution Graph" />
-</p>
-
----
-
 ### 🤝 Let's Connect
 - 📧 Email: **riyaratnani184@gmail.com**  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/riya-ratnani/)  
-- 🐙 [GitHub](https://github.com/riyaah)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/riya-ratnani-b45163326/)
+- 🐙 [GitHub](https://github.com/riyaahhh)
 
 ---
 
