@@ -27,14 +27,13 @@
 
 ### 🚀 Projects In Progress
 - 🧘‍♀️ **BrainBubble** – *A mental wellness app that visualizes thoughts & moods as floating bubbles*  
-- 🖨️ **PrintSprint** – *Print delivery app UI clone in Flutter*
+- 🖨️ **Chhaapo** – *Print delivery app UI clone in Flutter*
 
 ---
 
 ### 🤝 Let's Connect
 - 📧 Email: **riyaratnani184@gmail.com**  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/riya-ratnani-b45163326/)
-- 🐙 [GitHub](https://github.com/riyaahhh)
 
 ---
 
